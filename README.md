@@ -1,7 +1,7 @@
 ![MasterHead](https://thumbs.gfycat.com/BetterHandmadeGull-size_restricted.gif)
 <h1 align="center">Hi 👋, I'm Sayantan Paul</h1>
 <h3 align="center">I’m a sophomore studying Information Technology. I love a lot to try out new things, enthusiastic about open source, and also problem-solving. I have a strong interest in open-source communities and hope to contribute to it in the future. I’m looking for opportunities to learn from other passionate developers and data scientists. Maybe even do some cool projects together.</h3>
-<img align="right" alt="Solving" width="400" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ba9f7a62-5140-4932-a6d1-b893f9801395/dd9k1st-3fd7bca7-066f-410f-948d-24d877c12cff.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2JhOWY3YTYyLTUxNDAtNDkzMi1hNmQxLWI4OTNmOTgwMTM5NVwvZGQ5azFzdC0zZmQ3YmNhNy0wNjZmLTQxMGYtOTQ4ZC0yNGQ4NzdjMTJjZmYuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.tULhReEuwZ0DQhuBbTxLOt5u3RM9LIwEvcPid97SQvk">
+<img align="right" alt="Solving" width="300" src="https://i.pinimg.com/originals/30/06/72/3006722bf5b5bb4b9bf0acc2f9e196cc.png">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sayantanstackflow&label=Profile%20views&color=0e75b6&style=flat" alt="sayantanstackflow" /> </p>
 
 
@@ -15,7 +15,8 @@
 
 - ⚡ Hoobies I have **Apart from the technical skills I've always enjoyed sketching and traditional painting**
 
-<img align="right" alt="chrome game" width="150" src="https://media1.giphy.com/media/dxODB9UE879RDqAh3o/giphy.gif?cid=6c09b9522a8t2i3qo890g8ou78bbh3mtjx6g1v7axczd57dv&rid=giphy.gif&ct=s">
+<img align="right" alt="chrome game" width="100" src="https://media1.giphy.com/media/dxODB9UE879RDqAh3o/giphy.gif?cid=6c09b9522a8t2i3qo890g8ou78bbh3mtjx6g1v7axczd57dv&rid=giphy.gif&ct=s">
+
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
