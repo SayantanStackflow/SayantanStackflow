@@ -1,6 +1,6 @@
 ![MasterHead](https://thumbs.gfycat.com/BetterHandmadeGull-size_restricted.gif)
 <h1 align="center">Hi 👋, I'm Sayantan Paul</h1>
-<h3 align="center">I’m a sophomore studying Information Technology. I love a lot to try out new things, enthusiastic about open source, and also problem-solving. I have a strong interest in open-source communities and hope to contribute to it in the future. I’m looking for opportunities to learn from other passionate developers and data scientists. Maybe even do some cool projects together.</h3>
+<h3 align="center">I'm passionate about coding and development and enthusiastic about open source. I have a strong interest in open-source communities and hope to contribute to it in the future. I’m looking for opportunities to learn from other passionate developers and data scientists. Maybe even do some cool projects together.</h3>
 <img align="right" alt="Solving" width="300" src="https://i.pinimg.com/originals/30/06/72/3006722bf5b5bb4b9bf0acc2f9e196cc.png">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sayantanstackflow&label=Profile%20views&color=0e75b6&style=flat" alt="sayantanstackflow" /> </p>
 
