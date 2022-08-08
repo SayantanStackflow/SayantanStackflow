@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sayantanstackflow&label=Profile%20views&color=0e75b6&style=flat" alt="sayantanstackflow" /> </p>
 
 
-<p align="left"> <a href="https://twitter.com/sayanta12873421" target="blank"><img src="https://img.shields.io/twitter/follow/sayanta12873421?logo=twitter&style=for-the-badge" alt="sayanta12873421" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Sayantantwtss" target="blank"><img src="https://img.shields.io/twitter/follow/sayanta12873421?logo=twitter&style=for-the-badge" alt="sayanta12873421" /></a> </p>
 
 - 🌱 I’m currently exploring **Full Stack and Devops**
 
