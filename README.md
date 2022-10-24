@@ -32,8 +32,11 @@ Hey, I'm a 19 years undergraduate student trying to be a web developer, also hav
 
 ![Sayantan's github activity graph](https://activity-graph.herokuapp.com/graph?username=SayantanStackflow&theme=react-dark&hide_border=true)
 
-<h3>😌 Let's talk: </h3>
+<h3>Hacktoberfest:</h3>
 
+[![@sayantanpaul's Holopin board](https://holopin.me/sayantanpaul)](https://holopin.io/@sayantanpaul)
+
+<h3>😌 Let's talk: </h3>
 
 <p align="left"> <a href="https://twitter.com/Sayantantwtss" target="blank"><img src="https://img.shields.io/twitter/follow/Sayantantwtss?logo=twitter&style=for-the-badge" alt="Sayantantwtss" /></a> </p>
 
