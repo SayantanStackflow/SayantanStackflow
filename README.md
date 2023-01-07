@@ -23,14 +23,14 @@ Hey, I'm a 19 years undergraduate student trying to be a web developer, also hav
 
 <h3> 📊 GitHub Stats:</h3>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SayantanStackflow&theme=dark&hide_border=true&align=center=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SayantanmPaul&theme=dark&hide_border=true&align=center=true&include_all_commits=true&count_private=true&layout=compact)
 
-![](https://github-readme-stats.vercel.app/api?username=SayantanStackflow&theme=omni&hide_border=true&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=SayantanStackflow&theme=dark&hide_border=true)
+![](https://github-readme-stats.vercel.app/api?username=SayantanmPaul&theme=omni&hide_border=true&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=SayantanmPaul&theme=dark&hide_border=true)
 
 </p>
 
-![Sayantan's github activity graph](https://activity-graph.herokuapp.com/graph?username=SayantanStackflow&theme=react-dark&hide_border=true)
+![Sayantan's github activity graph](https://activity-graph.herokuapp.com/graph?username=SayantanmPaul&theme=react-dark&hide_border=true)
 
 <h3>Hacktoberfest:</h3>
 
