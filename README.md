@@ -23,7 +23,7 @@ Hey, I'm a 19 years undergraduate student trying to be a web developer, also hav
 
 <h3> 📊 GitHub Stats:</h3>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SayantanmPaul&theme=dark&hide_border=true&align=center=true&include_all_commits=true&count_private=true&layout=compact)
+![Sayantan's GitHub stats](https://github-readme-stats.vercel.app/api?username=SayantanmPaul&show_icons=true&theme=transparent)
 
 ![](https://github-readme-stats.vercel.app/api?username=SayantanmPaul&theme=omni&hide_border=true&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SayantanmPaul&theme=dark&hide_border=true)
