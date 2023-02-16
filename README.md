@@ -23,14 +23,16 @@ Hey, I'm a 19 years undergraduate student trying to be a web developer, also hav
 
 <h3> 📊 GitHub Stats:</h3>
 
-![Sayantan's GitHub stats](https://github-readme-stats.vercel.app/api?username=SayantanmPaul&show_icons=true&theme=transparent)
+![sayantanmpaul's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sayantanmpaul&theme=radical&show_icons=true&hide_border=true&layout=compact)
+</p>
 
-![](https://github-readme-stats.vercel.app/api?username=SayantanmPaul&theme=omni&hide_border=true&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=SayantanmPaul&theme=dark&hide_border=true)
+![sayantanmpaul's Stats](https://github-readme-stats.vercel.app/api?username=sayantanmpaul&theme=radical&show_icons=true&hide_border=true&count_private=true)
+![sayantanmpaul's Streak](https://github-readme-streak-stats.herokuapp.com/?user=sayantanmpaul&theme=radical&hide_border=true)
+
 
 </p>
 
-![Sayantan's github activity graph](https://activity-graph.herokuapp.com/graph?username=SayantanmPaul&theme=react-dark&hide_border=true)
+[![Let's see the activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=sayantanmpaul&bg_color=0d1117&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <h3>Hacktoberfest:</h3>
 
