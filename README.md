@@ -51,7 +51,6 @@
  
 </p>
 
-</br>
 
 ## 📊 GitHub Stats
 
@@ -70,11 +69,10 @@
   <img src='https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical'/>
 </p>
 
-</br>
+
 
 ##  ☄️ My Socials
 
-</br>
 </br>
 
 <p align="center">
@@ -95,8 +93,6 @@
     <img src="https://img.shields.io/github/followers/SayantanmPaul?label=Followers&style=social" alt="GitHub Badge">
   </a>
 </p>
-
-</br>
 
 ##
 [![@sayantanpaul's Holopin board](https://holopin.me/sayantanpaul)](https://holopin.io/@sayantanpaul)
