@@ -1,7 +1,4 @@
-</br>
-
 <h1 align="center">Hi I'm Sayantan Paul</h1>
-
 
 ## ✨About Me
 
