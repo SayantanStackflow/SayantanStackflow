@@ -4,10 +4,10 @@
 
 </br>
 
-- Currently studing in third Year of **MCKV Institute of Engineering** pursuing **Bachelors in Information Technology**.
-- **MERN Stack Developer** and also interested in **Web3** & **Machine Learning** fields. 
+- Currently studying in final Year of **MCKV Institute of Engineering**, pursuing **Bachelors in Information Technology**.
+- **MERN Stack Developer** and also interested in **Web3** & **Machine Learning** fields.
 - Participated as a **Contributor** for Hacktoberfest as well as SWOC for the year 2022.
-- Student of CS50 cource by Harvard Education.   
+- Student of CS50 course by Harvard Education.
 - Also selected for **Postman Student Expert** & **Mentee of Amazon ML School**. 
 
 </br>
@@ -45,7 +45,7 @@
 
 <p align="center">
  
- <a href="https://github.com/BhaswatiRoy/github-readme-streak-stats">
+ <a href="https://github.com/Sayantanmpaul/github-readme-streak-stats">
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Sayantan's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=SayantanmPaul&theme=black-ice&hide_border=true&stroke=0000&background=0D1117"/>
  </a>
  
@@ -60,8 +60,6 @@
     <a href="https://github.com/SayantanmPaul/github-readme-stats"><img alt="Sayantan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SayantanmPaul&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
    <a href="https://github.com/SayantanmPaul/github-readme-stats"><img alt="Sayantan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SayantanmPaul&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 </p>
-
-[![Let's see the activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=SayantanmPaul&bg_color=0d1117&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/SayantanmPaul/github-readme-activity-graph)
 
 </br>
 
