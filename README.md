@@ -9,8 +9,6 @@
 - Presently **MERN Stack Developer** and also interested in **Web3** & **Machine Learning** fields.
 - I'm open for **Developer Roles** (open to opportunities worldwide).
 
-<p></p>
-
 ### My Go Around Stack
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -41,9 +39,10 @@
 ![Gthub](https://img.shields.io/badge/Github-black?style=for-the-badge&logo=GitHub&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma&logoColor=white)
 
-</br>
+
 
 <div align="center" >
+</br>
  
   <a href="https://github.com/SayantanmPaul/github-readme-stats"><img alt="Sayantan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SayantanmPaul&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/Sayantanmpaul/github-readme-streak-stats">
@@ -53,8 +52,6 @@
 </div>
 
 ## Connect With Me
-
-</br>
 
 <p align="center">
   <a href="https://github.com/SayantanmPaul/github-profile-views-counter">
