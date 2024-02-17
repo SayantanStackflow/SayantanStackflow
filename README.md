@@ -2,12 +2,12 @@
 
 ## About Me
 
-- Presently pursuing **Bachelors in Information Technology** in my final year of undergraduate studies, with an overall gpa of 8.78.
+- Presently pursuing **Bachelors in Information Technology** in my final year of undergrad studies, with an overall gpa of 8.78.
 - Selected for **Postman Student Expert** & **Mentee of Amazon ML School**. 
 - Student of **CS50** initiative by Harvard Education.
 - Participated as a **Contributor** for Hacktoberfest as well as SWOC for the year 2022.
 - Presently **MERN Stack Developer** and also interested in **Web3** & **Machine Learning** fields.
-- I'm open for **Developer Roles** (open to opportunities worldwide).
+- I'm looking for **Developer Roles** (open to opportunities worldwide).
 
 ### My Go Around Stack
 
